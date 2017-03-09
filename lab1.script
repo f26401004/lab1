@@ -1,0 +1,22 @@
+命令稿啟動於 2017年03月09日 (週四) 19時22分16秒
+[01;32mpc-65304@pc65304-BM1AF-BP1AF-BM6AF[01;34m ~/桌面/f26401004 $[00m whoamo[Ki;pwd
+pc-65304
+/home/pc-65304/桌面/f26401004
+[01;32mpc-65304@pc65304-BM1AF-BP1AF-BM6AF[01;34m ~/桌面/f26401004 $[00m git config -l
+user.name=f26401004
+user.email=f26401004@gmail.com
+core.editor=vim
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/f26401004/C-Practice.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+[01;32mpc-65304@pc65304-BM1AF-BP1AF-BM6AF[01;34m ~/桌面/f26401004 $[00m git clone https://github.c om/f26401004/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+[01;32mpc-65304@pc65304-BM1AF-BP1AF-BM6AF[01;34m ~/桌面/f26401004 $[00m exit
+
+命令稿已於 2017年03月09日 (週四) 19時23分01秒
+ 完成
